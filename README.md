@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front- End Eğitiminde oluştu
 ## ınstallation 
 Öncelikle projeyi clonelayın.(buraya sizin reponuzdan aldığınız link gelecek)
 
-|git clone https://github.com/BaharKahraman/kodluyoruz--CSS.git| 
+|git clone https://github.com/BaharKahraman/Kodluyoruz-CSS.git| 
 |:---:|
 
 ## Usage
